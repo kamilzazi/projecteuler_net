@@ -1,7 +1,7 @@
 # Project Euler
 
 ##### Series of challenging mathematical/computer programming problems.
-Leonhard Euler picture:<br>
+Leonhard Euler:<br>
 ![Euler image](./images/euler.jpg)
 ##
 ## Tables of Contents   
